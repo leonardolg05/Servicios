@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSUsuariosTurnero", "WebApiUsuariosTurnero\WSUsuariosTurnero.csproj", "{A463BB0C-43C6-4F85-825E-511A82929696}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasUnitariasUsuariosTurnero", "PruebasUnitariasUsuariosTurnero\PruebasUnitariasUsuariosTurnero.csproj", "{0C49D644-570F-4C17-BD98-86FB8C1D6390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Debug|Any CPU.Build.0 = Debug|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Debug|x64.ActiveCfg = Debug|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Debug|x64.Build.0 = Debug|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Release|Any CPU.ActiveCfg = Debug|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Release|Any CPU.Build.0 = Debug|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Release|x64.ActiveCfg = Release|x64
+		{A463BB0C-43C6-4F85-825E-511A82929696}.Release|x64.Build.0 = Release|x64
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Debug|Any CPU.Build.0 = Debug|x64
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Debug|x64.ActiveCfg = Debug|x64
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Debug|x64.Build.0 = Debug|x64
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Release|x64.ActiveCfg = Release|x64
+		{0C49D644-570F-4C17-BD98-86FB8C1D6390}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F32A4AE-509B-4D45-8CC0-2DC8DC6A9B58}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://adesarrollo/flotamas
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj
+		SccProjectName1 = WebApiUsuariosTurnero
+		SccLocalPath1 = WebApiUsuariosTurnero
+		SccProjectUniqueName2 = PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj
+		SccProjectName2 = PruebasUnitariasUsuariosTurnero
+		SccLocalPath2 = PruebasUnitariasUsuariosTurnero
+	EndGlobalSection
+EndGlobal

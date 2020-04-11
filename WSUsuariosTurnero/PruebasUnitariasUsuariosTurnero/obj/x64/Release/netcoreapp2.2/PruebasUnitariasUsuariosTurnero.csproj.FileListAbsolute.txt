@@ -1,0 +1,17 @@
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.deps.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.runtimeconfig.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.runtimeconfig.dev.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.pdb
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\WSUsuariosTurnero.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\bin\x64\Release\netcoreapp2.2\WSUsuariosTurnero.pdb
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.csprojAssemblyReference.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.csproj.CoreCompileInputs.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.AssemblyInfoInputs.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.AssemblyInfo.cs
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.csproj.CopyComplete
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\PruebasUnitariasUsuariosTurnero\obj\x64\Release\netcoreapp2.2\PruebasUnitariasUsuariosTurnero.pdb

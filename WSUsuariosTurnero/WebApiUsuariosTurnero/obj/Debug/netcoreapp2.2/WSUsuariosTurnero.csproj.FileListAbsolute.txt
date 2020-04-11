@@ -1,0 +1,14 @@
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\bin\Debug\netcoreapp2.2\WSUsuariosTurnero.deps.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\bin\Debug\netcoreapp2.2\WSUsuariosTurnero.runtimeconfig.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\bin\Debug\netcoreapp2.2\WSUsuariosTurnero.runtimeconfig.dev.json
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\bin\Debug\netcoreapp2.2\WSUsuariosTurnero.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\bin\Debug\netcoreapp2.2\WSUsuariosTurnero.pdb
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.csproj.CoreCompileInputs.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.RazorAssemblyInfo.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.RazorAssemblyInfo.cs
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.AssemblyInfoInputs.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.AssemblyInfo.cs
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.RazorTargetAssemblyInfo.cache
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.dll
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.pdb
+C:\TFS\FlotaMas\ServiciosGrupo\Servicios\MAIN\WSUsuariosTurnero\WebApiUsuariosTurnero\obj\Debug\netcoreapp2.2\WSUsuariosTurnero.csprojAssemblyReference.cache
