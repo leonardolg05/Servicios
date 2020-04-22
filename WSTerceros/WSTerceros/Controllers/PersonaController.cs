@@ -99,6 +99,20 @@ namespace WSTerceros.Controllers
             return Ok(persona);
         }
 
+        [Route("ConsultarPersonaId")]
+        [HttpPost]
+        public IActionResult ConsultarPersonaId([FromBody] Persona persona)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var personaIdentificada = context.tblPersona.FirstOrDefault(idPersona => idPersona.Id == persona.Id);
+            context.SaveChanges();
+
+            return new CreatedAtRouteResult("personaIdentificada", new { personaIdentificada });
+        }
+
         private void ejecutarSpCrearTercero(Persona persona)
         {
             StringBuilder errorMessages = new StringBuilder();
