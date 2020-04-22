@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj": {}
+    "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj": {
+    "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj",
+        "projectUniqueName": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj",
         "projectName": "PruebasUnitariasUsuariosTurnero",
-        "projectPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj",
+        "projectPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\PruebasUnitariasUsuariosTurnero.csproj",
         "packagesPath": "C:\\Users\\anderson.arbelaez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\obj\\",
+        "outputPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\PruebasUnitariasUsuariosTurnero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj": {
-                "projectPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj"
+              "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj": {
+                "projectPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj": {
+    "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj",
+        "projectUniqueName": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj",
         "projectName": "WSUsuariosTurnero",
-        "projectPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj",
+        "projectPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\WSUsuariosTurnero.csproj",
         "packagesPath": "C:\\Users\\anderson.arbelaez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\obj\\",
+        "outputPath": "C:\\Users\\anderson.arbelaez\\Desktop\\Flotamas\\Turnero\\Backend\\repositorio-Servicios\\Servicios\\WSUsuariosTurnero\\WebApiUsuariosTurnero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

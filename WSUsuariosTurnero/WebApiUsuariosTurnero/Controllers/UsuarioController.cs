@@ -84,7 +84,7 @@
         {
             var existeUsuario = new Usuario();
             existeUsuario = context.Usuarios.FirstOrDefault(validUsuario => validUsuario.Identificacion == usuario.Identificacion);
-            if (ModelState.IsValid && existeUsuario != null)
+            if (ModelState.IsValid && existeUsuario == null)
             {
                 context.Usuarios.Add(usuario);
                 context.SaveChanges();
