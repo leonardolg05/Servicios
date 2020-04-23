@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -18,6 +17,9 @@ namespace WSTerceros.Models
         public string Telefono2 { get; set; }
         public string Telefono3 { get; set; }
         public string Direccion { get; set; }
+        public string DireccionCorrespondencia { get; set; }
         public int IdMubicipio { get; set; }
+        public DateTime FechaIngreso { get; set; }
+        public string Email { get; set; }
     }
 }
