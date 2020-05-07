@@ -1,0 +1,16 @@
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\WSTerceros.deps.json
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\WSTerceros.runtimeconfig.json
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\WSTerceros.runtimeconfig.dev.json
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\WSTerceros.dll
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\bin\Release\netcoreapp2.2\WSTerceros.pdb
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.csprojAssemblyReference.cache
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.RazorAssemblyInfo.cache
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.RazorAssemblyInfo.cs
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.AssemblyInfoInputs.cache
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.AssemblyInfo.cs
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.RazorTargetAssemblyInfo.cache
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.dll
+C:\Users\anderson.arbelaez\Desktop\Flotamas\Turnero\Backend\repositorio-Servicios\Servicios\WSTerceros\WSTerceros\obj\Release\netcoreapp2.2\WSTerceros.pdb

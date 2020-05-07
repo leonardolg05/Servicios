@@ -1,0 +1,13 @@
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\WSVehiculos.deps.json
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\WSVehiculos.runtimeconfig.json
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\WSVehiculos.runtimeconfig.dev.json
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\bin\Debug\netcoreapp2.2\WSVehiculos.dll
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\obj\Debug\netcoreapp2.2\WSVehiculos.csprojAssemblyReference.cache
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\obj\Debug\netcoreapp2.2\WSVehiculos.RazorAssemblyInfo.cache
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\obj\Debug\netcoreapp2.2\WSVehiculos.RazorAssemblyInfo.cs
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\obj\Debug\netcoreapp2.2\WSVehiculos.AssemblyInfoInputs.cache
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\obj\Debug\netcoreapp2.2\WSVehiculos.AssemblyInfo.cs
+C:\Users\anderson.arbelaez\source\repos\WSVehiculos\WSVehiculos\obj\Debug\netcoreapp2.2\WSVehiculos.RazorTargetAssemblyInfo.cache

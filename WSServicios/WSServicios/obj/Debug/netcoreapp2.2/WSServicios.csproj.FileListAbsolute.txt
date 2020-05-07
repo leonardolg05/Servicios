@@ -1,0 +1,16 @@
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\WSServicios.deps.json
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\WSServicios.runtimeconfig.json
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\WSServicios.runtimeconfig.dev.json
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\WSServicios.dll
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.csprojAssemblyReference.cache
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.RazorAssemblyInfo.cache
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.RazorAssemblyInfo.cs
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.AssemblyInfoInputs.cache
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.AssemblyInfo.cs
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.RazorTargetAssemblyInfo.cache
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\bin\Debug\netcoreapp2.2\WSServicios.pdb
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.dll
+C:\Users\anderson.arbelaez\source\repos\WSServicios\WSServicios\obj\Debug\netcoreapp2.2\WSServicios.pdb

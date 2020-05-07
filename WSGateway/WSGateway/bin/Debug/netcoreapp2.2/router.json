@@ -1,0 +1,471 @@
+{
+  "routes": [
+    {
+      "endpoint": "/personaFlotaMas",
+      "destination": {
+        "uri": "http://192.168.1.8:5002/api/Persona/",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/LoginFlotaMas",
+      "destination": {
+        "uri": "http://192.168.1.8:5002/api/Account/login",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/LoginTurnero",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Account/login",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearLoginTurnero",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Account/Create",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearUsuarioTurnero",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/AgregarUsuario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarUsuarioTurnero",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ConsultarUsuario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarUsuariosActivos",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ConsultarUsuariosActivos",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerIdUsuario",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ObtenerIdUsuario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarUsuarioRol",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ConsultarUsuarioRol",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarUsuarioRolLogueado",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ConsultarUsuarioRolLogueado",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarUsuarioEstado",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ActualizarUsuarioEstado",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarUsuarioTurnero",
+      "destination": {
+        "uri": "http://192.168.1.10:4998/api/Usuario/ActualizarUsuario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerAsesorePorID",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/TramiteAgrupador/ObtenerAsesorePorID",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarEmpresas",
+      "destination": {
+        "uri": "http://192.168.1.10:5002/api/Empresa/ConsultarEmpresas",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearSede",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Sede/CrearSede",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+
+      "endpoint": "/ConsultarSedes",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Sede/ConsultarSedes",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+
+      "endpoint": "/ConsultarSedePorId",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Sede/ConsultarSedePorId",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarSede",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Sede/ActualizarSede",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarSedesPorCiudad",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Sede/ConsultarSedesPorCiudad",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarSedesPorCiudad",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Sede/ConsultarSedesPorCiudad",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerDepartamentos",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Departamento/ObtenerDepartamentos",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerCiudades",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Ciudad/ObtenerCiudades",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerCiudadPorId",
+      "destination": {
+        "uri": "http://192.168.1.10:4996/api/Ciudad/ObtenerCiudadPorId",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerTurnoPorFecha",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/ObtenerTurnoPorFecha",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerTurnoPorFechaPorAtender",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/ObtenerTurnoPorFechaPorAtender",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerTurnoPorAsesor",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/ObtenerTurnoPorAsesor",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarTurnoAsignarAsesor",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/ActualizarTurnoAsignarAsesor",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerTurnoPorAtender",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/ObtenerTurnoPorAtender",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearTurno",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/CrearTurno",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarTurno",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/Turno/ActualizarTurno",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearHistorialTurno",
+      "destination": {
+        "uri": "http://192.168.1.10:5012/api/HistorialTurno/CrearHistorialTurno",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearTramite",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/Tramite/CrearTramite",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarTramites",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/Tramite/ConsultarTramites",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarTramitePorId",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/Tramite/ConsultarTramitePorId",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarTramite",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/Tramite/ActualizarTramite",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarProcesosPorTramite",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/DetalleTramite/ConsultarProcesosPorTramite",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearProcesoTramite",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/DetalleTramite/CrearProcesoTramite",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarProcesoTramitesPorId",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/DetalleTramite/ConsultarProcesoTramitesPorId",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarProcesoTramite",
+      "destination": {
+        "uri": "http://192.168.1.10:5010/api/DetalleTramite/ActualizarProcesoTramite",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearTramiteAgrupadorTurno",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/TramiteAgrupador/CrearTramiteAgrupador",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerTramiteAgrupadorTurno",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/TramiteAgrupador/ObtenerTramiteAgrupador",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ExiteTramiteEnAgrupador",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/TramiteAgrupador/ExiteTramiteEnAgrupador",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarTramiteAgrupadorTurno",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/TramiteAgrupador/ActualizarTramiteAgrupador",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerIdTramite",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/TramiteAgrupador/ObtenerIdTramite",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearAsesorTramiteAgrupador",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/AsesorPorAgrupador/CrearAsesoresPorAgrupador",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerAsesoresAgrupados",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/AsesorPorAgrupador/ObtenerAsesoresAgrupados",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ObtenerAsesoresAgrupadosPorID",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/AsesorPorAgrupador/ObtenerAsesoresAgrupadosPorID",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarAsesoresTramiteAgrupador",
+      "destination": {
+        "uri": "http://192.168.1.10:5000/api/AsesorPorAgrupador/ActualizarAsesoresPorAgrupador",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearRol",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/Rol/CrearRol",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarRoles",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/Rol/ConsultarRoles",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ActualizarRol",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/Rol/ActualizarRol",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarRolPorId",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/Rol/ConsultarRolPorId",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarRolUsuario",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/RolUsuario/ConsultarRolUsuario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearRolUsuario",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/RolUsuario/CrearRolUsuario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearUsuariosPorRol",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/RolUsuario/CrearUsuariosPorRol",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarRolesFormulario",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/RolFormulario/ConsultarRolesFormulario",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearFormularosPorRol",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/RolFormulario/CrearFormularosPorRol",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarFormularios",
+      "destination": {
+        "uri": "http://192.168.1.10:5008/api/Formulario/ConsultarFormularios",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/Socket",
+      "destination": {
+        "uri": "http://192.168.1.10:5020/api/Socket",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarEncuestas",
+      "destination": {
+        "uri": "http://192.168.1.10:5028/api/Encuesta/ConsultarEncuestas",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearEncuesta",
+      "destination": {
+        "uri": "http://192.168.1.10:5028/api/Encuesta/CrearEncuesta",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/CrearEncuesta",
+      "destination": {
+        "uri": "http://192.168.1.10:5028/api/Encuesta/ActualizarPersona",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/EliminarEncuesta",
+      "destination": {
+        "uri": "http://192.168.1.10:5028/api/Encuesta/EliminarEncuesta",
+        "requiresAuthentication": "false"
+      }
+    },
+    {
+      "endpoint": "/ConsultarPersonaCedula",
+      "destination": {
+        "uri": "http://192.168.1.10:5026/api/Persona/ConsultarPersonaCedula",
+        "requiresAuthentication": "false"
+      },
+      {
+        "endpoint": "/ConsultarPersonaId",
+        "destination": {
+          "uri": "http://192.168.1.10:5026/api/Persona/ConsultarPersonaId",
+          "requiresAuthentication": "false"
+        }
+      },
+      {
+        "endpoint": "/ConsultarServicios",
+        "destination": {
+          "uri": "http://192.168.1.10:5030/api/Servicio/ConsultarServicios",
+          "requiresAuthentication": "false"
+        }
+      }
+    }
+  ],
+  "authenticationService": {
+    "uri": "http://192.168.1.8:5002"
+  }
+}
